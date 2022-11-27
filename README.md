@@ -280,6 +280,12 @@ Experto en Información => la clase responsable es la que tiene la información
 
 - Se añade en getStatement un HEADER y FOOTER para el resultado. 
 
+## <em>**Versión 26**</em>
+
+### <em>**Refactoring**</em>
+
+- Se añade la clase statement. Se refactoriza la forma en la que se general el statement.
+
 
 
 
